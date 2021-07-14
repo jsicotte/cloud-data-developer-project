@@ -1,0 +1,6 @@
+database = "AIRLINES"
+schema = "PUBLIC"
+warehouse = "COMPUTE_WH"
+airlines_path = "/Users/jsicotte/Documents/workspaces/cloud-data-developer-project/airlines.csv"
+airports_path = "/Users/jsicotte/Documents/workspaces/cloud-data-developer-project/airports.csv"
+flight_partitions_path = "/Users/jsicotte/Documents/workspaces/cloud-data-developer-project/flights/"
